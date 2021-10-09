@@ -1,0 +1,50 @@
+*{
+
+}
+body{
+	background-color: greenyellow;
+	height: 100px;
+	width: 100px;s
+	padding-top: 30px;
+	float: right;
+
+
+
+}
+.container{
+
+}
+.header{
+	
+	width: 15px;
+	height: 100px;
+	text-align: center;
+
+}
+.contact-section{
+	height: 10px;
+	width: 12px;
+	
+	
+
+}
+.main-section{
+	float: right;
+	width: 1000px;
+
+	
+
+}
+.nav a{
+	width:190px;
+	float: left;
+	
+	
+	}
+.footer a{
+	clear: both;
+	background-color: black;
+	text-decoration: 10PX;
+
+
+}
